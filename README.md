@@ -21,7 +21,8 @@ This project presents an interactive sales analysis dashboard using the **Sample
 - 📈 Sales and profit increased steadily from **2015 to 2017**
 
 ## 📂 Files Included  
-- `Superstore_Analysis_pdf.pdf` – Dashboard with visuals  
+- `Superstore_Analysis.pdf` – Dashboard with visuals
+- `Superstore_Analysis.pbix` – Power BI Dashboard  
 - `Sample - Superstore.csv` – Original dataset  
 
 ## ✅ Outcome  
